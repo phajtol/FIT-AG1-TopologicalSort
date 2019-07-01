@@ -10,7 +10,7 @@ Summary of the assignment: For a given input graph, calculate its topological so
 
 Basically, the point of this assignment is to implement your own linked list.
 
-My solution is in file `solution.cpp`, function main of this file contains test data for basic scenarios.
+My solution is in file `solution.cpp`, text files contain test data for basic scenarios with reference solutions.
 
 My solution includes custom version of vector and linked list data containers since using C++ STL was not allowed.
 
